@@ -19,6 +19,8 @@ Unisync was developed as part of a subproject within the <a href="https://www.hs
 </p>
 
 # unifyhn_matrix - Matrix Server for HNUnisync
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHHN%2FUNIFY_UNISYNC_SERVER.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHHN%2FUNIFY_UNISYNC_SERVER?ref=badge_shield)
+
 
 **unifyhn_matrix** is the Matrix server backend for **HNUnisync.de**, enabling seamless communication between students and instructors through Matrix rooms created from ILIAS course enrollments. It automates the creation and management of Matrix rooms, providing a scalable communication platform for educational institutions.
 
@@ -92,6 +94,9 @@ For support or inquiries, please open an issue on the GitHub repository or reach
 
 ## License
 - This project is licensed under [Apache 2.0](LICENSE). Copyright 2024 , Hochschule Heilbronn.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHHN%2FUNIFY_UNISYNC_SERVER.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHHN%2FUNIFY_UNISYNC_SERVER?ref=badge_large)
 
 ## Acknowledgments
 
